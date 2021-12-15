@@ -127,3 +127,38 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# My files
+.conda
+.continuum
+.gnupg
+.ipynb_checkpoints
+.ipython
+.jupyter
+.matplotlib
+.spyder-py3
+.streamlit
+3D Objects
+Alex
+Contacts
+Desktop
+Documents
+Downloads
+Favorites
+Jedi
+Links
+Music
+OneDrive
+Pictures
+Saved Games
+Searches
+Telegram
+Videos
+.bash_history
+.condarc
+5task.txt
+Correct Task 2.ipynb
+Interp and optim.ipynb
+Untitled.ipynb
+Симонов_3.ipynb
+
